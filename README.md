@@ -1,5 +1,31 @@
 # 💫 About Me:
-🔭 I’m currently a Student<br>Pursuing B.Tech in Information Technology<br>Passionate about AI, ML, Web Development and UI/UX Design<br>👯 I’m looking to collaborate on<br>Open-source AI/ML projects<br>Web development projects (MERN stack)<br>NLP and deep learning for language translation<br>🤝 I’m looking for help with<br>Optimizing TensorFlow models for language translation<br>Improving translation accuracy using deep learning<br>Deploying AI models efficiently<br>🌱 I’m currently learning<br>Natural Language Processing (NLP) with TensorFlow<br>Advanced React and backend development<br>AI model deployment with Flask and FastAPI<br>💬 Ask me about<br>UI/UX design principles<br>Web development (HTML, CSS, JavaScript, MERN)<br>Machine learning and NLP<br>⚡ Fun fact<br>I enjoy building AI tools that break language barriers and enhance communication! 🌍
+🔭 <p><strong>I’m currently a Student</strong><br>
+Pursuing <strong>B.Tech in Information Technology</strong><br>
+Passionate about <strong>AI, Machine Learning, and Data Science</strong></p>
+
+<p>👯 <strong>I’m looking to collaborate on</strong><br>
+• Open-source <strong>ML and Data Science projects</strong><br>
+• <strong>Predictive modeling and statistical analysis</strong><br>
+• <strong>NLP and deep learning</strong> for language translation and text analytics</p>
+
+<p>🤝 <strong>I’m looking for help with</strong><br>
+• <strong>Optimizing machine learning pipelines</strong><br>
+• <strong>Improving model accuracy</strong> using advanced techniques<br>
+• <strong>Deploying data science models</strong> using Flask or FastAPI</p>
+
+<p>🌱 <strong>I’m currently learning</strong><br>
+• <strong>Natural Language Processing (NLP)</strong> with TensorFlow<br>
+• <strong>EDA, feature engineering, and model building</strong> using Python<br>
+• <strong>AI model deployment</strong> and MLOps</p>
+
+<p>💬 <strong>Ask me about</strong><br>
+• <strong>Data analysis and visualization</strong> using pandas, matplotlib, seaborn<br>
+• <strong>Machine learning techniques</strong> (classification, regression, clustering)<br>
+• <strong>Natural Language Processing</strong> and model evaluation</p>
+
+<p>⚡ <strong>Fun fact</strong><br>
+I enjoy building <strong>AI tools that turn raw data into meaningful insights</strong> and drive smarter decisions!</p>
+ 🌍
 
 
 ## 🌐 Socials:
