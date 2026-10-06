@@ -1,6 +1,6 @@
 👋 Hi there!
 
-🎓 Final-Year B.Tech Student (Information Technology)
+🎓 Recent 2026 B.Tech(IT) graduate
 💻 Aspiring Software Developer
 🚀 Passionate about building scalable, reliable, and user-centric software solutions
 
